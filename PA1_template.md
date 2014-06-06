@@ -10,7 +10,6 @@ by Ionel M., Sun , June 7 2014
 
 
 
-
 _**Abstract:**   This document represents the work for the **Programming Assignment 1** as  
 part of **Reproducible esearch** online class offered by **Coursera**._  
 
